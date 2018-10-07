@@ -20,9 +20,6 @@ function dec(a) {
 function makeInt(a) {
   return (a.toString());
 }
-function makeInt(a) {
-  return (a.toString('0x2328'));
-}
 /*
 
   it('assumes base 10', function() {
