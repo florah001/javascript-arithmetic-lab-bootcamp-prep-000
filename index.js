@@ -17,6 +17,9 @@ function inc(a) {
 function dec(a) {
   return (a - 1);
 }
+function makeInt(a) {
+  return (a.toString());
+}
 /*
 describe('makeInt(n)', function() {
   it('parses n as an integer and returns the parsed integer', function() {
