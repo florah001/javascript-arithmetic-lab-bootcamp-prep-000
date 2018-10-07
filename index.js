@@ -20,10 +20,6 @@ function dec(a) {
 function makeInt(a) {
   return (a.toString());
 }
-function makeInt(a) {
-   if (parseInt('a', 10))
-   return (a.toString())
-}
 /*
 
   it('assumes base 10', function() {
